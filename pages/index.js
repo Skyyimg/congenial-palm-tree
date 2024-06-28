@@ -1,5 +1,5 @@
-function home() {
-    return <h1> Se está lendo esta mensagem tenha um ótimo dia obrigado :) </h1>
+Function Home() {
+    return<h1> Se você está lendo está mensagem tenha um ótimo dia :)</h1>
 }
 
-export default home;
+export default Home;
